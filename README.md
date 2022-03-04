@@ -8,4 +8,6 @@ Also known as: 秋风, ToiletCommander / 马桶将军, QuantumCookie / 量子饼
 
 [🔗 Personal Website](https://toiletcommander.github.io/personal-blog/)
 
+[🔗 Study Notes @ UC Berkeley](https://toiletcommander.github.io/Opensourced-Study-Notes-Berkeley/)
+
 [🔗 Instagram@RealToiletCommander](https://www.instagram.com/realtoiletcommander/)
