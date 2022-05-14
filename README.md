@@ -6,8 +6,8 @@ Windy Feng is my nickname on the web, my real name is Yunhao Cao and I am a stud
 
 Also known as: 秋风, ToiletCommander / 马桶将军, QuantumCookie / 量子饼干
 
-[🔗 Personal Website](https://toiletcommander.github.io/personal-blog/)
-
 [🔗 Study Notes @ UC Berkeley](https://toiletcommander.github.io/Opensourced-Study-Notes-Berkeley/)
 
-[🔗 Instagram@RealToiletCommander](https://www.instagram.com/realtoiletcommander/)
+[🔗 LinkedIn](https://www.linkedin.com/in/yunhao-cao/)
+
+
