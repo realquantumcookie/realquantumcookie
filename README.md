@@ -8,7 +8,7 @@ I am currently doing cutting-edge DL/RL research @ [🔗 Berkeley Artificial Int
 
 Also known as: 秋风, ToiletCommander / 马桶将军, QuantumCookie / 量子饼干
 
-[🔗 Personal Blog](https://toiletcommander.github.io/)
+[🔗 Website](https://toiletcommander.github.io/)
 
 [🔗 Study Notes @ UC Berkeley](https://toiletcommander.github.io/Opensourced-Study-Notes-Berkeley/)
 
