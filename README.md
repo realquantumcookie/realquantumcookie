@@ -8,7 +8,7 @@ I am currently doing cutting-edge DL/RL research @ [🔗 Berkeley Artificial Int
 
 Also known as: 秋风 / Windy Feng
 
-[🔗 Website](https://toiletcommander.github.io/)
+[🔗 Website](https://www.quantumcookie.xyz/)
 
 [🔗 Study Notes @ UC Berkeley](https://toiletcommander.github.io/Opensourced-Study-Notes-Berkeley/)
 
