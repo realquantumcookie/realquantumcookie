@@ -10,7 +10,7 @@ Also known as: 秋风 / Windy Feng
 
 [🔗 Website](https://www.quantumcookie.xyz/)
 
-[🔗 Study Notes @ UC Berkeley](https://toiletcommander.github.io/Opensourced-Study-Notes-Berkeley/)
+[🔗 Study Notes @ UC Berkeley](https://quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/)
 
 [🔗 LinkedIn](https://www.linkedin.com/in/yunhao-cao/)
 
