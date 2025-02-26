@@ -3,6 +3,3 @@
 ### Hi there 👋 Yunhao Cao (Quantum Cookie) Here
 
 [🔗 Website](https://www.quantumcookie.xyz/)
-
-[🔗 LinkedIn](https://www.linkedin.com/in/yunhao-cao/)
-
